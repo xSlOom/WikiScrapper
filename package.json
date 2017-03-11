@@ -1,0 +1,24 @@
+{
+  "name": "xatwikiscrapper",
+  "version": "1.0.0",
+  "description": "A tool to scrap the free smilies from xat wiki.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "xat",
+    "scrapper",
+    "js",
+    "free",
+    "smilies"
+  ],
+  "author": "xSlOom",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^0.22.0",
+    "fs": "0.0.1-security",
+    "http": "0.0.0",
+    "request": "^2.81.0"
+  }
+}
